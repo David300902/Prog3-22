@@ -1,0 +1,7 @@
+D:\ISI 2 AÑO\PROG 3\Practica1\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+D:\ISI 2 AÑO\PROG 3\Practica1\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+D:\ISI 2 AÑO\PROG 3\Practica1\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+D:\ISI 2 AÑO\PROG 3\Practica1\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+D:\ISI 2 AÑO\PROG 3\Practica1\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+D:\ISI 2 AÑO\PROG 3\Practica1\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+D:\ISI 2 AÑO\PROG 3\Practica1\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
