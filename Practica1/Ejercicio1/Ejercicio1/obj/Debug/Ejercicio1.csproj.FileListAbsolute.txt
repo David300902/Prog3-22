@@ -1,0 +1,7 @@
+D:\ISI 2 AÑO\PROG 3\New folder\Prog3-22\Practica1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+D:\ISI 2 AÑO\PROG 3\New folder\Prog3-22\Practica1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+D:\ISI 2 AÑO\PROG 3\New folder\Prog3-22\Practica1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+D:\ISI 2 AÑO\PROG 3\New folder\Prog3-22\Practica1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+D:\ISI 2 AÑO\PROG 3\New folder\Prog3-22\Practica1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\ISI 2 AÑO\PROG 3\New folder\Prog3-22\Practica1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+D:\ISI 2 AÑO\PROG 3\New folder\Prog3-22\Practica1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb

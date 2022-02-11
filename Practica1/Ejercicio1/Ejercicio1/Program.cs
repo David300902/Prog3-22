@@ -10,31 +10,36 @@ namespace Ejercicio1
     {
         static void Main(string[] args)
         {
-            string name;
-            int age;
+            Persona p = new Persona();
+            Persona[] pe = new Persona[2];
 
-            Console.WriteLine("Cuantos datos desea ingresar?");
-            int num = int.Parse(Console.ReadLine());
-            Persona[,] registro = new Persona[num, num];
-
-            for (int i = 0; i < num; i++)
+           
+            for (int i = 0; i < 2; i++)
             {
-                for (int j = 0; j < 1; j++)
-                {
-                    Console.WriteLine("Ingrese el nombre");
-                    name = Console.ReadLine();
-                    Console.WriteLine("Ingrese la edad");
-                    age = int.Parse(Console.ReadLine());
 
-                }
+                Console.WriteLine("ingresa el nombre");
+                p.nombre = Console.ReadLine();
+                Console.WriteLine("Ingrese la edad");
+                p.edad = int.Parse(Console.ReadLine());
+                pe[i] = new Persona();
+                
             }
+
+            for (int i = 0; i < 2; i++)
+            {
+                Console.WriteLine(pe[i]);
+            }
+
+
+            Console.ReadKey();
+
 
         }
     }
 
     class Persona
     {
-        string nombre;
-        int edad;
+        public string nombre;
+        public int edad;
     }
 }
